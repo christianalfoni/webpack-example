@@ -5,6 +5,7 @@ An example of webpack workflow, as presented in the following article [Creating 
 
 ### How to use
 
+- Clone the repo (download zip causes error for some unexplained reason)
 - `npm install`
 - `npm run dev` - localhost:8080
 - `npm run deploy` - deploy to dist folder
