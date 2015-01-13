@@ -4,7 +4,7 @@ var bower_dir = __dirname + '/bower_components';
 var config = {
   addVendor: function (name, path) {
     this.resolve.alias[name] = path;
-    this.module.noParse.push(new RegExp(name));
+    this.module.noParse.push(new RegExp(path));
   },
   entry: {
     app: ['webpack/hot/dev-server', './app/main.js'],
