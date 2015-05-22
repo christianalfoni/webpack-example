@@ -1,6 +1,9 @@
 webpack-example
 ===============
 
+## !Important
+If you get here you should move on to: https://github.com/christianalfoni/webpack-express-boilerplate. It is the boilerplate from this article: http://www.christianalfoni.com/articles/2015_04_19_The-ultimate-webpack-setup. It is just a better setup :-)
+
 An example of webpack workflow, as presented in the following article [Creating a workflow with WebPack](http://christianalfoni.github.io/javascript/2014/12/13/did-you-know-webpack-and-react-is-awesome.html)
 
 ### How to use
